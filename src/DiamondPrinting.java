@@ -1,4 +1,5 @@
 //Created by Ryan Boulds
+
 import java.util.Scanner;
 
 public class DiamondPrinting {
